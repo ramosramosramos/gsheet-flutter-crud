@@ -1,4 +1,4 @@
-import 'package:flutter_gsheets/config.dart';
+import 'package:flutter_gsheets/configuration.dart';
 import 'package:gsheets/gsheets.dart';
 
 class UserService {
